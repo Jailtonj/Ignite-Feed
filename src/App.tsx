@@ -7,7 +7,7 @@ import styles from './App.module.css';
 import './global.css';
 
 interface Posts extends PostProps {
-    id: number
+  id: number
 }
 
 const posts:Posts[] = [
